@@ -50,25 +50,25 @@ In all cases, terms begin and end at the close of January, after the annual
 Joint Mathematics Meetings.
 
 Chair
-: Brian Katz, Augustana College. Term complete in January 2018.
+: <a href="https://www.augustana.edu/academics/faculty-directory/brian-p-katz" target="_new">Brian Katz</a>, Augustana College. Term complete in January 2018.
 
 Chair-Elect
-: Victor Piercey, Ferris State University. Term complete in January 2018.
+: <a href="https://www.ferris.edu/arts-sciences/departments/mathematics/mathematics-faculty-staff/victor-piercey.htm" target="_new">Victor Piercey</a>, Ferris State University. Term complete in January 2018.
 
 Secretary/Treasurer
-: Alison Marr, Southwestern University. Term complete in January 2018.
+: <a href="http://people.southwestern.edu/~marra/" target="_new">Alison Marr</a>, Southwestern University. Term complete in January 2018.
 
 Program Coordinator
-: Eric Kahn, Bloomsburg University. Term complete in January 2019.
+: <a href="http://facstaff.bloomu.edu/ekahn/" target="_new">Eric Kahn</a>, Bloomsburg University. Term complete in January 2019.
 
 Past-Chair
-: Theron Hitchman, University of Northern Iowa. Term complete in January 2018.
+: <a href="https://sites.uni.edu/theron/" target="_new">Theron Hitchman</a>, University of Northern Iowa. Term complete in January 2018.
 
 Communications Officer (appointed by Brian Katz in Feb 2017)
-: Xiao Xiao, Utica College. Term complete in January 2019.
+: <a href="http://www.utica.edu/faculty_staff/xixiao/" target="_new">Xiao Xiao</a>, Utica College. Term complete in January 2019.
 
 Coordinator for Outreach and Advocacy (appointed by Brian Katz in March 2017)
-: Candice Price, University of San Diego. Term complete in January 2019.
+: <a href="http://www.candicerprice.com" target="_new">Candice Price</a>, University of San Diego. Term complete in January 2019.
 
 
 ## Old Friends
