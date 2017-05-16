@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         kramdown
+highligher:       pygments
+
+
+# Important Variables for site building
+
+title: IBL SIGMAA
+tagline: 'Asking Questions Together'
+description: > # this means to ignore newlines until "baseurl:"
+  IBL SIGMAA is the inquiry-based learning special interest group of the
+  <a href="http://www.maa.org/">Mathematical Association of America</a>.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://theronhitchman.github.io/iblsigmaa" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: iblsigmaa
+email: iblsigmaa@gmail.com
+
+
+# Build settings
+paginate_path: "/blog/page:num"
+paginate:        5
