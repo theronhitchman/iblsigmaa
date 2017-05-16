@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>IBL SIGMAA</title>
- <link href="https://theronhitchman.github.io/atom.xml" rel="self"/>
- <link href="https://theronhitchman.github.io/"/>
- <updated>2017-05-16T16:16:53-05:00</updated>
- <id>https://theronhitchman.github.io</id>
+ <link href="https://theronhitchman.github.io/iblsigmaa/atom.xml" rel="self"/>
+ <link href="https://theronhitchman.github.io/iblsigmaa/"/>
+ <updated>2017-05-16T16:40:25-05:00</updated>
+ <id>https://theronhitchman.github.io/iblsigmaa</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>things for some day</title>
-   <link href="https://theronhitchman.github.io/2017/05/10/wish-list.html"/>
+   <link href="https://theronhitchman.github.io/iblsigmaa/2017/05/10/wish-list.html"/>
    <updated>2017-05-10T15:30:00-05:00</updated>
-   <id>https://theronhitchman.github.io/2017/05/10/wish-list</id>
+   <id>https://theronhitchman.github.io/iblsigmaa/2017/05/10/wish-list</id>
    <content type="html">&lt;p&gt;Things we would like to have:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -29,9 +29,9 @@
  
  <entry>
    <title>Events at MathFest 2017</title>
-   <link href="https://theronhitchman.github.io/2017/05/10/mathfest17-events.html"/>
+   <link href="https://theronhitchman.github.io/iblsigmaa/2017/05/10/mathfest17-events.html"/>
    <updated>2017-05-10T15:00:00-05:00</updated>
-   <id>https://theronhitchman.github.io/2017/05/10/mathfest17-events</id>
+   <id>https://theronhitchman.github.io/iblsigmaa/2017/05/10/mathfest17-events</id>
    <content type="html">&lt;p&gt;IBL SIGMAA is sponsoring several events at MathFest 2017 in Chicago, Illinois.
 Come and Join us!&lt;/p&gt;
 
