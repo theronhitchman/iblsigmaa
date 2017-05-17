@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources for IBL Teaching
+permalink: /resources/
 ---
 
 ## Materials

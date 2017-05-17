@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About IBL SIGMAA
-permalink: {{site.baseurl}}/about/
+permalink: /about/
 ---
 
 ## History
