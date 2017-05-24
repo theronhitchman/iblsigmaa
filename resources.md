@@ -33,11 +33,11 @@ These are blog sites with interesting content about teaching college Mathematics
 
   * <a href="http://theiblblog.blogspot.com" target="_new">The IBL blog</a>.
   * <a href="https://www.artofmathematics.org/blog" target="_new">The DAoM blog</a>.
-  * <a href="http://maateachingtidbits.blogspot.com" target="_new">MAA's Teaching Tidbits</a>.
-  * <a href="http://launchings.blogspot.com" target="_new">David Bressoud's Launchings</a>.
+  * <a href="http://maateachingtidbits.blogspot.com" target="_new">Teaching Tidbits</a>, an MAA blog focused on teaching issues.
+  * <a href="http://launchings.blogspot.com" target="_new">Launchings</a>, former MAA president David Bressoud's blog.
   * <a href="http://devlinsangle.blogspot.com" target="_new">Devlin's Angle</a> by Keith Devlin.
   * <a href="https://noviceiblblog.wordpress.com"  target="_new">A Novice IBL Blog</a> run by a collection of faculty as they learn to teach with IBL and reflect on their work.
-  * <a href="http://blogs.ams.org/matheducation/" target="_new">On Teaching and Learning</a>, an AMS blog featuring writing about teaching and math education research.
+  * <a href="http://blogs.ams.org/matheducation/" target="_new">On Teaching and Learning Mathematics</a>, an AMS blog featuring writing about teaching and math education research.
   * <a href="http://blogs.ams.org/inclusionexclusion/"  target="_new">inclusion/exclusion</a>, an AMS blog focused on diversity and equity issues in the profession and in the classroom.
 
 ## Other Organizations of Note
