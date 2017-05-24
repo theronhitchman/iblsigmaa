@@ -25,11 +25,6 @@ The <a href="http://www.inquirybasedlearning.org/" target="_new">Academy of Inqu
 Learning</a> is an organization for connecting IBL practitioners. AIBL runs
 workshops every summer, and can match you with a mentor.
 
-## MLI
-
-<a href="http://www.mathlearningbyinquiry.org/" target="_new">The Initiative
-for Mathematics Learning by Inquiry</a> is a public non-profit foundation
-dedicated to supporting the IBL community.
 
 ## Blogs
 
@@ -44,3 +39,18 @@ These are blog sites with interesting content about teaching college Mathematics
   * <a href="https://noviceiblblog.wordpress.com"  target="_new">A Novice IBL Blog</a> run by a collection of faculty as they learn to teach with IBL and reflect on their work.
   * <a href="http://blogs.ams.org/matheducation/" target="_new">On Teaching and Learning</a>, an AMS blog featuring writing about teaching and math education research.
   * <a href="http://blogs.ams.org/inclusionexclusion/"  target="_new">inclusion/exclusion</a>, an AMS blog focused on diversity and equity issues in the profession and in the classroom.
+
+## Other Organizations of Note
+
+<a href="http://www.maa.org/" target="_new">The Mathematical Association of America</a>
+: Our parent organization.
+
+<a href="http://www.mathlearningbyinquiry.org/" target="_new">The Initiative
+for Mathematics Learning by Inquiry</a>
+:  A public non-profit foundation
+dedicated to supporting the IBL community.
+
+<a href="http://eduadvance.org/" target="_new">The Educational Advancement
+Foundation</a>
+: A private philanthropic foundation with a long history of supporting the
+IBL community.

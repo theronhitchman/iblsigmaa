@@ -76,6 +76,9 @@ Coordinator for Outreach and Advocacy (appointed by Brian Katz in March 2017)
 Judith Covington, Louisiana State University at Shreveport
 : Inaugural Past-Chair, 2016-2017.
 
+Stan Yoshinobu, California Polytechnic State University, San Luis Obispo
+: Helped us set up the SIGMAA by gathering the list of charter members
+
 
 ## Documents:
 
