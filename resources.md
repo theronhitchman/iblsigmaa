@@ -45,12 +45,10 @@ These are blog sites with interesting content about teaching college Mathematics
 <a href="http://www.maa.org/" target="_new">The Mathematical Association of America</a>
 : Our parent organization.
 
-<a href="http://www.mathlearningbyinquiry.org/" target="_new">The Initiative
-for Mathematics Learning by Inquiry</a>
+<a href="http://www.mathlearningbyinquiry.org/" target="_new">The Initiative for Mathematics Learning by Inquiry</a>
 :  A public non-profit foundation
 dedicated to supporting the IBL community.
 
-<a href="http://eduadvance.org/" target="_new">The Educational Advancement
-Foundation</a>
+<a href="http://eduadvance.org/" target="_new">The Educational Advancement Foundation</a>
 : A private philanthropic foundation with a long history of supporting the
 IBL community.
