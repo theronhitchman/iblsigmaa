@@ -22,7 +22,8 @@ MAA's Google Groups mailing list</a>. (If you go looking for this through the
 generic Google Groups page, you may have to "switch organizations to maa.org"
 near the top of the page.)
 
-
+<!--
 ## Comments?
 
 open comment box using a google doc set-up attached to the iblsigmaa address
+-->

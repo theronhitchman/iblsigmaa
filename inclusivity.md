@@ -59,3 +59,7 @@ welcoming to all educators.
 This Resolution is a statement of values, an acknowledgement of some of the
 challenges, and a commitment to doing better. This commitment can only be borne
 out through the actions of the IBL SIGMAA and its members going forward.
+
+---
+
+Resolution adopted by vote of membership in May 2017.
