@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   IBL SIGMAA is the inquiry-based learning special interest group of the
   <a href="http://www.maa.org/">Mathematical Association of America</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://theronhitchman.github.io/iblsigmaa" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sigmaa.maa.org/ibl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iblsigmaa
 email: iblsigmaa@gmail.com
 
