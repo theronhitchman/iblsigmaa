@@ -43,3 +43,8 @@ These are blog sites with interesting content about teaching college Mathematics
   * <a href="https://noviceiblblog.wordpress.com"  target="_new">A Novice IBL Blog</a> run by a collection of faculty as they learn to teach with IBL and reflect on their work.
   * <a href="http://blogs.ams.org/matheducation/" target="_new">On Teaching and Learning</a>, an AMS blog featuring writing about teaching and math education research.
   * <a href="http://blogs.ams.org/inclusionexclusion/"  target="_new">inclusion/exclusion</a>, an AMS blog focused on diversity and equity issues in the profession and in the classroom.
+
+## Contributed Paper Session Slides
+
+  * <a href="https://drive.google.com/drive/folders/1g7_VByDd0LDOR-ZAnZrO4ZXEQLo1uAQn?usp=sharing">MathFest 2018 (Denver, Colorado)</a>
+  

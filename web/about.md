@@ -50,19 +50,19 @@ In all cases, terms begin and end at the close of January, after the annual
 Joint Mathematics Meetings.
 
 Chair
-: <a href="https://www.augustana.edu/academics/faculty-directory/brian-p-katz" target="_new">Brian Katz</a>, Augustana College. Term complete in January 2018.
+: <a href="https://www.ferris.edu/arts-sciences/departments/mathematics/mathematics-faculty-staff/victor-piercey.htm" target="_new">Victor Piercey</a>, Ferris State University. Term complete in January 2019.
 
 Chair-Elect
-: <a href="https://www.ferris.edu/arts-sciences/departments/mathematics/mathematics-faculty-staff/victor-piercey.htm" target="_new">Victor Piercey</a>, Ferris State University. Term complete in January 2018.
+: <a href="https://www.loras.edu/staff/susan-crook-ph-d/" target="_new">Susan Crook, Loras College. Term complete in January 2019.
 
 Secretary/Treasurer
-: <a href="http://people.southwestern.edu/~marra/" target="_new">Alison Marr</a>, Southwestern University. Term complete in January 2018.
+: <a href="https://www.usna.edu/Users/math/ksir/index.php" target="_new">Amy Ksir</a>, United States Naval Academy. Term complete in January 2020.
 
 Program Coordinator
 : <a href="http://facstaff.bloomu.edu/ekahn/" target="_new">Eric Kahn</a>, Bloomsburg University. Term complete in January 2019.
 
 Past-Chair
-: <a href="https://sites.uni.edu/theron/" target="_new">Theron Hitchman</a>, University of Northern Iowa. Term complete in January 2018.
+: <a href="https://www.augustana.edu/academics/faculty-directory/brian-p-katz" target="_new">Brian Katz</a>, Augustana College. Term complete in January 2019.
 
 Communications Officer (appointed by Brian Katz in Feb 2017)
 : <a href="http://www.utica.edu/faculty_staff/xixiao/" target="_new">Xiao Xiao</a>, Utica College. Term complete in January 2019.
@@ -75,6 +75,15 @@ Coordinator for Outreach and Advocacy (appointed by Brian Katz in March 2017)
 
 Judith Covington, Louisiana State University at Shreveport
 : Inaugural Past-Chair, 2016-2017.
+
+Theron Hitchman, University of Northern Iowa
+: Inaugural Chair, 2016-2017 and Past Chair 2017-2018
+
+Alison Marr, Southwestern University
+: Inaugural Secretary-Treasurer, 2016-2018
+
+Stan Yoshinobu, California Polytechnic State University, San Luis Obispo
+: Helped us set up the SIGMAA by collecting the list of charter members
 
 
 ## Documents:
